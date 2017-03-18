@@ -1,0 +1,50 @@
+/**
+ * CSS Document signos
+ */
+ *{
+		font:Verdana, Geneva, sans-serif;
+	}
+	body{
+		background:#FFF8DC
+	}
+	#conteudo{
+		width:400px;
+		margin:0 auto;
+		background:#FFF;
+		border:3px inset black;
+		border-radius:10px;
+	}
+	#resp{
+		text-align:center;
+	}
+	#resp h1{
+		color:#fff;
+		text-shadow:0px 0px 10px #F00;
+	}
+	#signos span{
+		display:block;
+	}
+	fieldset{
+		border-radius:10px;
+		background:#CCC;
+	}
+	legend{
+		padding:0 10px;
+		border-radius:10px;
+		background:#FFF;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
